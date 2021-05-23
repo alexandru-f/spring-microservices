@@ -12,6 +12,7 @@
 - API GATEWAY
 	- in28min/mmv2-api-gateway:0.0.1-SNAPSHOT
 
+
 ## URLS
 
 #### Currency Exchange Service
